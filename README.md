@@ -1,5 +1,6 @@
 # mlops-skct-51
 
+<<<<<<< HEAD
 # MLOps Assignment
 
 Name: SRIDHARAN.S  
@@ -29,3 +30,6 @@ Experiment Name: SKCT_51_CrimeHotspotPrediction
 
 ## GitHub Repo
 mlops-skct-51
+=======
+1.Updated project description
+>>>>>>> 7882a9c (updated README description)
