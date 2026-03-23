@@ -1,0 +1,7 @@
+Name: SRIDHARAN.S
+Roll No: 51
+Experiment Name: SKCT_51_CrimeHotspotPrediction
+Best Run ID: (copy from MLflow)
+Best Metric Value: (F1 score)
+GitHub URL: https://github.com/FS-Sridharan007/mlops-skct-51
+Total Commits: 9
